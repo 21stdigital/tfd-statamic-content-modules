@@ -119,7 +119,7 @@ class Gallery extends ContentModule
 The `data()` method will be called automatically. Any modified or added data is then available in your content module's template:
 
 ```html
-<!-- resources/views/partials/gallery.antlers.html -->
+<!-- resources/views/modules/gallery.antlers.html -->
 
 <p>{{ foo }}</p>
 
